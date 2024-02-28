@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
+	"github.com/kaungmyathan22/golang-otp-sms-service/api"
 )
 
 func main() {
